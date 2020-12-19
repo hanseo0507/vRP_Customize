@@ -18,7 +18,7 @@
 ## Setup
 ### Ko
 
-1. customize.lua를 vrp/modeuls 경로에 추가합니다.
+1. customize.lua를 vrp/modules 경로에 추가합니다.
 2. vrp/gui/ogrp.main.js 파일을 업로드된 ogrp.main.js로 교체합니다.
 3. cfg/customize.lua를 vrp/cfg 경로에 추가합니다.
 4. vrp/cfg/lang/[lang].lua 파일에 아래 코드를 추가합니다.
@@ -54,7 +54,7 @@ customize = {
 
 ### Eng
 
-1. Add customize.lua to the vrp/modeules path.
+1. Add customize.lua to the vrp/modules path.
 2. Replace the vrp/gui/ogrp.main.js file with the uploaded ogrp.main.js.
 3. Add cfg/customize.lua to vrp/cfg path.
 4. Add the code below to vrp/cfg/lang/[lang].lua
