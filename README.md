@@ -12,8 +12,6 @@
 2. Anyone can modify or edit the source code and redeploy it for free.
 3. However, it is prohibited from selling the source code to third parties for commercial purposes.
 
-<strong>Copyright © 2020. HanSeo. All rights reserved.</strong>
-
 ## Setup
 
 ### Ko
@@ -87,3 +85,5 @@ customize = {
 }
 ```
 6. Enjoy your use!
+
+<strong>Copyright © 2020. HanSeo. All rights reserved.</strong>
