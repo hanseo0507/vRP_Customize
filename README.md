@@ -88,10 +88,10 @@ customize = {
 
 ## Contact
 
-해당 스크립트 이용 중 발생하는 오류에 대한 연락은 일체 받지 않습니다.
+해당 스크립트 이용 중 발생하는 오류에 대한 연락은 일체 받지 않습니다.</br>
 해당 레파지토리 이슈 등록을 통해 오류를 제보해주시길 바랍니다.
 
-I dont' receive any contact about any errors that occur during the use of the script.
+I dont' receive any contact about any errors that occur during the use of the script.</br>
 Please report the error by registering the relevant repository issue.
 
 <strong>Copyright © 2020. HanSeo. All rights reserved.</strong>
