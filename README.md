@@ -20,8 +20,9 @@
 
 1. customize.lua를 vrp/modules 경로에 추가합니다.
 2. vrp/gui/ogrp.main.js 파일을 업로드된 ogrp.main.js로 교체합니다.
-3. cfg/customize.lua를 vrp/cfg 경로에 추가합니다.
-4. vrp/cfg/lang/[lang].lua 파일에 아래 코드를 추가합니다.
+3. client/customize.lua를 vrp/client 경로에 추가합니다.
+4. cfg/customize.lua를 vrp/cfg 경로에 추가합니다.
+5. vrp/cfg/lang/[lang].lua 파일에 아래 코드를 추가합니다.
 ```lua
 customize = {
       title = "🔗 [설정]",
@@ -32,7 +33,7 @@ customize = {
 }
 ```
 
-5. gui/design.css에 사용하려는 폰트들을 추가하세요 ( 아래 코드는 예시입니다 )
+6. gui/design.css에 사용하려는 폰트들을 추가하세요 ( 아래 코드는 예시입니다 )
 ```css
 @font-face {
 	font-family: "Arita-dotum-Medium";
@@ -50,14 +51,15 @@ customize = {
 	src: url("https://cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.woff") format("woff"), url("https://cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.ttf") format("truetype");
 }
 ```
-6. 즐겁게 사용하세요!
+7. 즐겁게 사용하세요!
 
 ### Eng
 
 1. Add customize.lua to the vrp/modules path.
 2. Replace the vrp/gui/ogrp.main.js file with the uploaded ogrp.main.js.
-3. Add cfg/customize.lua to vrp/cfg path.
-4. Add the code below to vrp/cfg/lang/[lang].lua
+3. Add client/customize.lua to the vrp/client path.
+4. Add cfg/customize.lua to vrp/cfg path.
+5. Add the code below to vrp/cfg/lang/[lang].lua
 ```lua
 customize = {
       title = "🔗 [Customize]",
@@ -68,7 +70,7 @@ customize = {
 }
 ```
 
-5. Add the fonts you want to use for gui/design.css (the code below is an example).
+6. Add the fonts you want to use for gui/design.css (the code below is an example).
 ```css
 @font-face {
 	font-family: "Arita-dotum-Medium";
@@ -86,7 +88,7 @@ customize = {
 	src: url("https://cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.woff") format("woff"), url("https://cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.ttf") format("truetype");
 }
 ```
-6. Enjoy your use!
+7. Enjoy your use!
 
 ## Contact
 
